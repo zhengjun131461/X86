@@ -19,5 +19,5 @@
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 #echo 'src-git small8 https://github.com/kenzok8/small-package' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-echo 'git clone https://github.com/4IceG/luci-app-sms-tool.git' package/luci-app-sms-tool
+#echo 'git clone https://github.com/4IceG/luci-app-sms-tool.git' package/luci-app-sms-tool
 echo 'git clone https://github.com/kongfl888/luci-app-kcpufreq.git' package/luci-app-kcpufreq
